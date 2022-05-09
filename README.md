@@ -44,6 +44,7 @@ Design Thinking Canvas'ı inceleyiniz.
 - **Sprint Notları**: Takım görevleri belirlenmiş, projeye karar verilmiş ve Epicler ve User Story'ler product backlog boarda yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 
+70
 
 - **Puan tamamlama mantığı**:
 
