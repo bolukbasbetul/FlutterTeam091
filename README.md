@@ -110,13 +110,13 @@ Tamamlanması hedeflenen 80 puandan 30 puan bitirildi. Eksik kalan 50 puanlık h
 
 # Sprint 3
 
-- **Sprint Notları**: 
+- **Sprint Notları**: : Hikayeler tamamlandı, ürün tasarımı için kod hazırlandı. Son eklemeler için çalışmalara başlandı. Pomodoro timer eklenmesi için kod hazırlandı.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**:
 
-- **Puan tamamlama mantığı**:
+- **Puan tamamlama mantığı**:Projenin tamamlanması için 200 puanlık backlog kaldı. Üzerinde durulması gereken itemler önceliklendirilerek sprint tamamlandı. Bu sprintte en az 150 puan tamamlanması hedeflendi. 
 
-- **Backlog düzeni ve Story seçimleri**: 
+- **Backlog düzeni ve Story seçimleri**: Storyler önceliklendirildiği sıralara göre tamamlanmaya başladı. Timer eklenerek görev tamamlandı uyarısı eklendi. 
 
 
 - **Daily Scrum**: 
